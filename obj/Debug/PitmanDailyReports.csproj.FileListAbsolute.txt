@@ -1,0 +1,7 @@
+C:\Users\mitic\OneDrive\Desktop\Basic_C#_Programs\PitmanDailyReports\PitmanDailyReports\bin\Debug\PitmanDailyReports.exe.config
+C:\Users\mitic\OneDrive\Desktop\Basic_C#_Programs\PitmanDailyReports\PitmanDailyReports\bin\Debug\PitmanDailyReports.exe
+C:\Users\mitic\OneDrive\Desktop\Basic_C#_Programs\PitmanDailyReports\PitmanDailyReports\bin\Debug\PitmanDailyReports.pdb
+C:\Users\mitic\OneDrive\Desktop\Basic_C#_Programs\PitmanDailyReports\PitmanDailyReports\obj\Debug\PitmanDailyReports.csprojAssemblyReference.cache
+C:\Users\mitic\OneDrive\Desktop\Basic_C#_Programs\PitmanDailyReports\PitmanDailyReports\obj\Debug\PitmanDailyReports.csproj.CoreCompileInputs.cache
+C:\Users\mitic\OneDrive\Desktop\Basic_C#_Programs\PitmanDailyReports\PitmanDailyReports\obj\Debug\PitmanDailyReports.exe
+C:\Users\mitic\OneDrive\Desktop\Basic_C#_Programs\PitmanDailyReports\PitmanDailyReports\obj\Debug\PitmanDailyReports.pdb
