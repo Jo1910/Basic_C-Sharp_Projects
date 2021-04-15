@@ -1,0 +1,7 @@
+C:\Users\mitic\source\repos\Basic_C-Sharp_Projects\Price-Quote Application\PriceQuote\PriceQuote\bin\Debug\PriceQuote.exe.config
+C:\Users\mitic\source\repos\Basic_C-Sharp_Projects\Price-Quote Application\PriceQuote\PriceQuote\bin\Debug\PriceQuote.exe
+C:\Users\mitic\source\repos\Basic_C-Sharp_Projects\Price-Quote Application\PriceQuote\PriceQuote\bin\Debug\PriceQuote.pdb
+C:\Users\mitic\source\repos\Basic_C-Sharp_Projects\Price-Quote Application\PriceQuote\PriceQuote\obj\Debug\PriceQuote.csprojAssemblyReference.cache
+C:\Users\mitic\source\repos\Basic_C-Sharp_Projects\Price-Quote Application\PriceQuote\PriceQuote\obj\Debug\PriceQuote.csproj.CoreCompileInputs.cache
+C:\Users\mitic\source\repos\Basic_C-Sharp_Projects\Price-Quote Application\PriceQuote\PriceQuote\obj\Debug\PriceQuote.exe
+C:\Users\mitic\source\repos\Basic_C-Sharp_Projects\Price-Quote Application\PriceQuote\PriceQuote\obj\Debug\PriceQuote.pdb
