@@ -1,0 +1,7 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\LoopsAssignment\LoopsAssignment\LoopsAssignment\bin\Debug\LoopsAssignment.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\LoopsAssignment\LoopsAssignment\LoopsAssignment\bin\Debug\LoopsAssignment.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\LoopsAssignment\LoopsAssignment\LoopsAssignment\bin\Debug\LoopsAssignment.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\LoopsAssignment\LoopsAssignment\LoopsAssignment\obj\Debug\LoopsAssignment.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\LoopsAssignment\LoopsAssignment\LoopsAssignment\obj\Debug\LoopsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\LoopsAssignment\LoopsAssignment\LoopsAssignment\obj\Debug\LoopsAssignment.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\LoopsAssignment\LoopsAssignment\LoopsAssignment\obj\Debug\LoopsAssignment.pdb
