@@ -1,0 +1,7 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\StringAssignment\StringAssign\StringAssign\bin\Debug\StringAssign.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\StringAssignment\StringAssign\StringAssign\bin\Debug\StringAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\StringAssignment\StringAssign\StringAssign\bin\Debug\StringAssign.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\StringAssignment\StringAssign\StringAssign\obj\Debug\StringAssign.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\StringAssignment\StringAssign\StringAssign\obj\Debug\StringAssign.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\StringAssignment\StringAssign\StringAssign\obj\Debug\StringAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\StringAssignment\StringAssign\StringAssign\obj\Debug\StringAssign.pdb
