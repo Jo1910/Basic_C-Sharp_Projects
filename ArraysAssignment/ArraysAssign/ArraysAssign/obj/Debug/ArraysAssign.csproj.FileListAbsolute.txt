@@ -1,0 +1,7 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\ArraysAssignment\ArraysAssign\ArraysAssign\bin\Debug\ArraysAssign.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\ArraysAssignment\ArraysAssign\ArraysAssign\bin\Debug\ArraysAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\ArraysAssignment\ArraysAssign\ArraysAssign\bin\Debug\ArraysAssign.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\ArraysAssignment\ArraysAssign\ArraysAssign\obj\Debug\ArraysAssign.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\ArraysAssignment\ArraysAssign\ArraysAssign\obj\Debug\ArraysAssign.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\ArraysAssignment\ArraysAssign\ArraysAssign\obj\Debug\ArraysAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\ArraysAssignment\ArraysAssign\ArraysAssign\obj\Debug\ArraysAssign.pdb
