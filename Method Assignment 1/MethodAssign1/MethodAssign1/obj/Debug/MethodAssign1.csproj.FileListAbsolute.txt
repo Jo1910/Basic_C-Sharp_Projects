@@ -1,0 +1,7 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 1\MethodAssign1\MethodAssign1\bin\Debug\MethodAssign1.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 1\MethodAssign1\MethodAssign1\bin\Debug\MethodAssign1.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 1\MethodAssign1\MethodAssign1\bin\Debug\MethodAssign1.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 1\MethodAssign1\MethodAssign1\obj\Debug\MethodAssign1.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 1\MethodAssign1\MethodAssign1\obj\Debug\MethodAssign1.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 1\MethodAssign1\MethodAssign1\obj\Debug\MethodAssign1.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 1\MethodAssign1\MethodAssign1\obj\Debug\MethodAssign1.pdb
