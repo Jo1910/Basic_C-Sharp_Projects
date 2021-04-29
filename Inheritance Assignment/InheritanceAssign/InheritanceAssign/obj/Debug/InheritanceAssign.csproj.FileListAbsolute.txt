@@ -1,0 +1,7 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Inheritance Assignment\InheritanceAssign\InheritanceAssign\bin\Debug\InheritanceAssign.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Inheritance Assignment\InheritanceAssign\InheritanceAssign\bin\Debug\InheritanceAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Inheritance Assignment\InheritanceAssign\InheritanceAssign\bin\Debug\InheritanceAssign.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Inheritance Assignment\InheritanceAssign\InheritanceAssign\obj\Debug\InheritanceAssign.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Inheritance Assignment\InheritanceAssign\InheritanceAssign\obj\Debug\InheritanceAssign.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Inheritance Assignment\InheritanceAssign\InheritanceAssign\obj\Debug\InheritanceAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Inheritance Assignment\InheritanceAssign\InheritanceAssign\obj\Debug\InheritanceAssign.pdb
