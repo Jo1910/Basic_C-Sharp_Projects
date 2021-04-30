@@ -1,0 +1,7 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Abstract Classes Assignment\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Abstract Classes Assignment\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Abstract Classes Assignment\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Abstract Classes Assignment\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Abstract Classes Assignment\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Abstract Classes Assignment\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Abstract Classes Assignment\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb
