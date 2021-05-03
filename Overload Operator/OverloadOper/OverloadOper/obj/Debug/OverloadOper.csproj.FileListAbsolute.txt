@@ -1,0 +1,7 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Overload Operator\OverloadOper\OverloadOper\bin\Debug\OverloadOper.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Overload Operator\OverloadOper\OverloadOper\bin\Debug\OverloadOper.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Overload Operator\OverloadOper\OverloadOper\bin\Debug\OverloadOper.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Overload Operator\OverloadOper\OverloadOper\obj\Debug\OverloadOper.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Overload Operator\OverloadOper\OverloadOper\obj\Debug\OverloadOper.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Overload Operator\OverloadOper\OverloadOper\obj\Debug\OverloadOper.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Overload Operator\OverloadOper\OverloadOper\obj\Debug\OverloadOper.pdb
