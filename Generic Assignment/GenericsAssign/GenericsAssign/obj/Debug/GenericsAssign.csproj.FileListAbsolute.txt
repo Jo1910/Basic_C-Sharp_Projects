@@ -1,0 +1,7 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Generic Assignment\GenericsAssign\GenericsAssign\bin\Debug\GenericsAssign.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Generic Assignment\GenericsAssign\GenericsAssign\bin\Debug\GenericsAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Generic Assignment\GenericsAssign\GenericsAssign\bin\Debug\GenericsAssign.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Generic Assignment\GenericsAssign\GenericsAssign\obj\Debug\GenericsAssign.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Generic Assignment\GenericsAssign\GenericsAssign\obj\Debug\GenericsAssign.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Generic Assignment\GenericsAssign\GenericsAssign\obj\Debug\GenericsAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Generic Assignment\GenericsAssign\GenericsAssign\obj\Debug\GenericsAssign.pdb
