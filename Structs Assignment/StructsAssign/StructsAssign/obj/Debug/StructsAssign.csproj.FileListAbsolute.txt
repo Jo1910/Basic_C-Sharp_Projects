@@ -1,0 +1,7 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Structs Assignment\StructsAssign\StructsAssign\bin\Debug\StructsAssign.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Structs Assignment\StructsAssign\StructsAssign\bin\Debug\StructsAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Structs Assignment\StructsAssign\StructsAssign\bin\Debug\StructsAssign.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Structs Assignment\StructsAssign\StructsAssign\obj\Debug\StructsAssign.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Structs Assignment\StructsAssign\StructsAssign\obj\Debug\StructsAssign.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Structs Assignment\StructsAssign\StructsAssign\obj\Debug\StructsAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Structs Assignment\StructsAssign\StructsAssign\obj\Debug\StructsAssign.pdb
