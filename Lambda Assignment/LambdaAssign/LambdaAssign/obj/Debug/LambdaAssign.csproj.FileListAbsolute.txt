@@ -1,0 +1,7 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Lambda Assignment\LambdaAssign\LambdaAssign\bin\Debug\LambdaAssign.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Lambda Assignment\LambdaAssign\LambdaAssign\bin\Debug\LambdaAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Lambda Assignment\LambdaAssign\LambdaAssign\bin\Debug\LambdaAssign.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Lambda Assignment\LambdaAssign\LambdaAssign\obj\Debug\LambdaAssign.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Lambda Assignment\LambdaAssign\LambdaAssign\obj\Debug\LambdaAssign.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Lambda Assignment\LambdaAssign\LambdaAssign\obj\Debug\LambdaAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Lambda Assignment\LambdaAssign\LambdaAssign\obj\Debug\LambdaAssign.pdb
