@@ -1,0 +1,7 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\DateTime Assignment\DateTimeAssign\DateTimeAssign\bin\Debug\DateTimeAssign.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\DateTime Assignment\DateTimeAssign\DateTimeAssign\bin\Debug\DateTimeAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\DateTime Assignment\DateTimeAssign\DateTimeAssign\bin\Debug\DateTimeAssign.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\DateTime Assignment\DateTimeAssign\DateTimeAssign\obj\Debug\DateTimeAssign.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\DateTime Assignment\DateTimeAssign\DateTimeAssign\obj\Debug\DateTimeAssign.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\DateTime Assignment\DateTimeAssign\DateTimeAssign\obj\Debug\DateTimeAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\DateTime Assignment\DateTimeAssign\DateTimeAssign\obj\Debug\DateTimeAssign.pdb
