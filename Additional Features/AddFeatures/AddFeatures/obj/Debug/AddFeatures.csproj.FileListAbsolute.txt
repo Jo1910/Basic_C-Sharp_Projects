@@ -1,0 +1,7 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Additional Features\AddFeatures\AddFeatures\bin\Debug\AddFeatures.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Additional Features\AddFeatures\AddFeatures\bin\Debug\AddFeatures.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Additional Features\AddFeatures\AddFeatures\bin\Debug\AddFeatures.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Additional Features\AddFeatures\AddFeatures\obj\Debug\AddFeatures.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Additional Features\AddFeatures\AddFeatures\obj\Debug\AddFeatures.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Additional Features\AddFeatures\AddFeatures\obj\Debug\AddFeatures.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Additional Features\AddFeatures\AddFeatures\obj\Debug\AddFeatures.pdb
