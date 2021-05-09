@@ -1,0 +1,7 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Exception Assignment 2\ExceptionAssign\ExceptionAssign\obj\Debug\ExceptionAssign.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Exception Assignment 2\ExceptionAssign\ExceptionAssign\obj\Debug\ExceptionAssign.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Exception Assignment 2\ExceptionAssign\ExceptionAssign\bin\Debug\ExceptionAssign.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Exception Assignment 2\ExceptionAssign\ExceptionAssign\bin\Debug\ExceptionAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Exception Assignment 2\ExceptionAssign\ExceptionAssign\bin\Debug\ExceptionAssign.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Exception Assignment 2\ExceptionAssign\ExceptionAssign\obj\Debug\ExceptionAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Exception Assignment 2\ExceptionAssign\ExceptionAssign\obj\Debug\ExceptionAssign.pdb
