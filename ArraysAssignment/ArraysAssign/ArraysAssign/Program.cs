@@ -60,6 +60,7 @@ namespace ArraysAssign
                     break;
             }
 
+            // List of strings
             List<string> myStrList = new List<string>();
             myStrList.Add("Hi");
             myStrList.Add("how");

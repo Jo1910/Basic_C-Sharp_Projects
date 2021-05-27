@@ -11,6 +11,7 @@ namespace IOassign
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Please enter a number:");
             string number = Console.ReadLine();
             File.WriteAllText(@"C:\Users\mitic\Documents\io.txt", number);

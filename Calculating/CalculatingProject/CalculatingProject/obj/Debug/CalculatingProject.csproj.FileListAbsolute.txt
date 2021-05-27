@@ -1,7 +1,0 @@
-C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Calculating\CalculatingProject\CalculatingProject\bin\Debug\CalculatingProject.exe.config
-C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Calculating\CalculatingProject\CalculatingProject\bin\Debug\CalculatingProject.exe
-C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Calculating\CalculatingProject\CalculatingProject\bin\Debug\CalculatingProject.pdb
-C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Calculating\CalculatingProject\CalculatingProject\obj\Debug\CalculatingProject.csprojAssemblyReference.cache
-C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Calculating\CalculatingProject\CalculatingProject\obj\Debug\CalculatingProject.csproj.CoreCompileInputs.cache
-C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Calculating\CalculatingProject\CalculatingProject\obj\Debug\CalculatingProject.exe
-C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Calculating\CalculatingProject\CalculatingProject\obj\Debug\CalculatingProject.pdb

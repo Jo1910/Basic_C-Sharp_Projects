@@ -8,14 +8,14 @@ namespace StructsAssign
 {
     class Program
     {
-        public struct Number
+        public struct Number // creating a struct and giving it a property
         {
             public decimal Amount { get; set; }
         }
 
         static void Main(string[] args)
         {
-            Number n = new Number();
+            Number n = new Number(); // creating an object of data type "Number"
             n.Amount = 134.567m;
             Console.WriteLine("The amount is " + n.Amount);
             Console.ReadLine();

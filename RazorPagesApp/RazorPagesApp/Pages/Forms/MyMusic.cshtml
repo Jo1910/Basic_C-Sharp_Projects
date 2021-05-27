@@ -1,0 +1,35 @@
+﻿@page
+@model RazorPagesApp.Pages.Forms.AddColorModel
+@{
+    ViewData["Title"] = "MyMusic";
+}
+
+<h1 class="text-center">Your favorite music</h1>
+<div class="row bg-light">
+<div class="col-lg-6 col-md-8 col-sm-10 mx-auto text-center form p-4 px-2">
+  <form method="post" class="justify-content-center">
+    <div class="form-group">
+      <label class="col-form-label text-info">What is your name?</label>
+      <input type="text" class="form-control" asp-for="Music.Name" placeholder="Enter Name" autocomplete="false" />
+    </div>
+    <div class="form-group">
+      <label class="col-form-label text-info">What is your favorite song?</label>
+      <input type="text" class="form-control" asp-for="Music.Song" placeholder="Favorite song" autocomplete="false" />
+    </div>
+    <div class="form-group">
+      <label class="col-form-label text-info">What is your favorite music band?</label>
+      <input type="text" class="form-control" asp-for="Music.Band" placeholder="Favorite band" autocomplete="false" />
+    </div>
+    <div class="form-group">
+      <label class="col-form-label text-info">What is your favorite genre of music?</label>
+      <input type="text" class="form-control" asp-for="Music.Genre" placeholder="Favorite genre"autocomplete="false" />
+    </div>
+    <div class="form-group">
+      <label class="col-form-label text-info">Who is your favorite singer?</label>
+      <input type="text" class="form-control" asp-for="Music.Singer" placeholder="Favorite singer" autocomplete="false" />
+    </div>
+
+    <button type="submit" class="btn btn-primary mb-2 p-2">Submit</button>
+</form>
+</div>
+</div>
