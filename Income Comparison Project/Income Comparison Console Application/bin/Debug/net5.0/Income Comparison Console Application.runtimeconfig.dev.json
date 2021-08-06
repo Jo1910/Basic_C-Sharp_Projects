@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mitic\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mitic\\.nuget\\packages"
+    ]
+  }
+}

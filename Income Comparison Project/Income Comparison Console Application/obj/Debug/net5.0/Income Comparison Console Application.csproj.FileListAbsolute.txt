@@ -1,0 +1,16 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\bin\Debug\net5.0\Income Comparison Console Application.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\bin\Debug\net5.0\Income Comparison Console Application.deps.json
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\bin\Debug\net5.0\Income Comparison Console Application.runtimeconfig.json
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\bin\Debug\net5.0\Income Comparison Console Application.runtimeconfig.dev.json
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\bin\Debug\net5.0\Income Comparison Console Application.dll
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\bin\Debug\net5.0\ref\Income Comparison Console Application.dll
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\bin\Debug\net5.0\Income Comparison Console Application.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\obj\Debug\net5.0\Income Comparison Console Application.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\obj\Debug\net5.0\Income Comparison Console Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\obj\Debug\net5.0\Income Comparison Console Application.AssemblyInfoInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\obj\Debug\net5.0\Income Comparison Console Application.AssemblyInfo.cs
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\obj\Debug\net5.0\Income Comparison Console Application.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\obj\Debug\net5.0\Income Comparison Console Application.dll
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\obj\Debug\net5.0\ref\Income Comparison Console Application.dll
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\obj\Debug\net5.0\Income Comparison Console Application.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Income Comparison Project\Income Comparison Console Application\obj\Debug\net5.0\Income Comparison Console Application.genruntimeconfig.cache
