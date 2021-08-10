@@ -1,0 +1,16 @@
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\bin\Debug\net5.0\Iteration Assignment.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\bin\Debug\net5.0\Iteration Assignment.deps.json
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\bin\Debug\net5.0\Iteration Assignment.runtimeconfig.json
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\bin\Debug\net5.0\Iteration Assignment.runtimeconfig.dev.json
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\bin\Debug\net5.0\Iteration Assignment.dll
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\bin\Debug\net5.0\ref\Iteration Assignment.dll
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\bin\Debug\net5.0\Iteration Assignment.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\obj\Debug\net5.0\Iteration Assignment.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\obj\Debug\net5.0\Iteration Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\obj\Debug\net5.0\Iteration Assignment.AssemblyInfoInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\obj\Debug\net5.0\Iteration Assignment.AssemblyInfo.cs
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\obj\Debug\net5.0\Iteration Assignment.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\obj\Debug\net5.0\Iteration Assignment.dll
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\obj\Debug\net5.0\ref\Iteration Assignment.dll
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\obj\Debug\net5.0\Iteration Assignment.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Iteration\Iteration Assignment\obj\Debug\net5.0\Iteration Assignment.genruntimeconfig.cache
