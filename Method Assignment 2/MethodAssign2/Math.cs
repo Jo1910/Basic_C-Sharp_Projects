@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MethodAssign2
 {
-    class Math
+    class Math //creating a class that takes in 2 integers as parameters, one of them is optional - it has a default value
     {
         public int mathOp(int userNum, int optNum = 6)
         {

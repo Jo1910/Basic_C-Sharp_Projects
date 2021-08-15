@@ -5,3 +5,10 @@ C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 3\Metho
 C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 3\MethodAssign3\MethodAssign3\obj\Debug\MethodAssign3.csproj.CoreCompileInputs.cache
 C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 3\MethodAssign3\MethodAssign3\obj\Debug\MethodAssign3.exe
 C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 3\MethodAssign3\MethodAssign3\obj\Debug\MethodAssign3.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 3\MethodAssign3\bin\Debug\MethodAssign3.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 3\MethodAssign3\bin\Debug\MethodAssign3.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 3\MethodAssign3\bin\Debug\MethodAssign3.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 3\MethodAssign3\obj\Debug\MethodAssign3.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 3\MethodAssign3\obj\Debug\MethodAssign3.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 3\MethodAssign3\obj\Debug\MethodAssign3.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Method Assignment 3\MethodAssign3\obj\Debug\MethodAssign3.pdb

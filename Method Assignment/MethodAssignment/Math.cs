@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace MethodAssignment
 {
-    class Math
+    class Math //creating a class with three methods inside of it with user input passed in as a parameter
     {
-        public int addNumbers(int userNum)
+        public int addNumbers(int userNum) 
         {
             return userNum + 156;
         }
