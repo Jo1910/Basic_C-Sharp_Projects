@@ -1,0 +1,87 @@
+﻿@model CarInsurance.Models.Insuree
+
+<div class="container">
+  <h4 class="text-white text-center font-weight-bold mb-3">Insuree Details</h4>
+  <div class="text-center m-2">
+    <button class="btn-back" onclick="location.href='@Url.Action("Index", "Admin")'">Back To List</button>
+  </div>
+  <div class="details-container w-100 row">
+    <div class="col font-italic">
+      <h4>
+        @Html.DisplayNameFor(model => model.FirstName):
+      </h4>
+      <h4>
+        @Html.DisplayNameFor(model => model.LastName):
+      </h4>
+      <h4>
+        @Html.DisplayNameFor(model => model.EmailAddress):
+      </h4>
+      <h4>
+        @Html.DisplayNameFor(model => model.DateOfBirth):
+      </h4>
+      <h4>
+        @Html.DisplayNameFor(model => model.CarYear):
+      </h4>
+      <h4>
+        @Html.DisplayNameFor(model => model.CarMake):
+      </h4>
+      <h4>
+        @Html.DisplayNameFor(model => model.CarModel):
+      </h4>
+      <h4>
+        @Html.DisplayNameFor(model => model.DUI):
+      </h4>
+      <h4>
+        @Html.DisplayNameFor(model => model.SpeedingTickets):
+      </h4>
+      <h4>
+        @Html.DisplayNameFor(model => model.CoverageType):
+      </h4>
+      <h4>
+        @Html.DisplayNameFor(model => model.Quote):
+      </h4>
+    </div>
+    <div class="col">
+      <h4>
+        @Html.DisplayFor(model => model.FirstName)
+      </h4>
+      <h4>
+        @Html.DisplayFor(model => model.LastName)
+      </h4>
+      <h4>
+        @Html.DisplayFor(model => model.EmailAddress)
+      </h4>
+
+      <h4>
+        @Html.DisplayFor(model => model.DateOfBirth)
+      </h4>
+      <h4>
+        @Html.DisplayFor(model => model.CarYear)
+      </h4>
+      <h4>
+        @Html.DisplayFor(model => model.CarMake)
+      </h4>
+      <h4>
+        @Html.DisplayFor(model => model.CarModel)
+      </h4>
+      <h4>
+        @Html.DisplayFor(model => model.DUI)
+      </h4>
+      <h4>
+        @Html.DisplayFor(model => model.SpeedingTickets)
+      </h4>
+      <h4>
+        @Html.DisplayFor(model => model.CoverageType)
+      </h4>
+      <h4>
+        $@Html.DisplayFor(model => model.Quote)
+      </h4>
+
+    </div>
+
+    <div></div>
+  </div>
+
+
+</div>
+

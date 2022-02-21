@@ -9,6 +9,7 @@ namespace AddFeatures
         string lastName;
         string occupation;
 
+        // Chaining two constructors together / overloading constructor.
         public DunderMifflinEmployees() : this("Michael", "Scott", "the regional manager")
         {
 

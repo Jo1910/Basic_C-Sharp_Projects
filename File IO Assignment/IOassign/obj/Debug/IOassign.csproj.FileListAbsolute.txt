@@ -5,3 +5,10 @@ C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\File IO Assignment\IOassi
 C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\File IO Assignment\IOassign\IOassign\obj\Debug\IOassign.csproj.CoreCompileInputs.cache
 C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\File IO Assignment\IOassign\IOassign\obj\Debug\IOassign.exe
 C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\File IO Assignment\IOassign\IOassign\obj\Debug\IOassign.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\File IO Assignment\IOassign\bin\Debug\IOassign.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\File IO Assignment\IOassign\bin\Debug\IOassign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\File IO Assignment\IOassign\bin\Debug\IOassign.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\File IO Assignment\IOassign\obj\Debug\IOassign.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\File IO Assignment\IOassign\obj\Debug\IOassign.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\File IO Assignment\IOassign\obj\Debug\IOassign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\File IO Assignment\IOassign\obj\Debug\IOassign.pdb

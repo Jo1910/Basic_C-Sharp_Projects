@@ -1,20 +1,50 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Car Insurance Quote</title>
-    @Styles.Render("~/Content/css")
-   
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Car Insurance Quote</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap" rel="stylesheet">
+  <link href="~/Content/Site.css" type="text/css" />
+  <style>
+    .nav-link:hover {
+      color: blue !important;
+    }
+    .navbar-toggler {
+      background: white;
+    }
+  </style>
+  @Styles.Render("~/Content/css")
+
 </head>
-<body>
-    
-    <div class="container body-content">
-        @RenderBody()
-       
-        @Scripts.Render("~/bundles/jquery")
-        @Scripts.Render("~/bundles/bootstrap")
-        @RenderSection("scripts", required: false)
+
+<body class="bg-info" style="font-family: 'Kanit', sans-serif; font-size: larger;">
+  <nav class="navbar navbar-expand-lg navbar-expand-md navbar-expand-sm bg-transparent">
+    <a class="navbar-brand text-white font-weight-bold pl-2" href="#">Car Insurance Quote</a>
+    <div class="">
+      <ul class="nav navbar-nav ml-auto pr-2">
+        <li class="nav-item active @(ViewContext.RouteData.Values["Action"].ToString() == "Index" ? "active" : "")">
+          <a class="nav-link text-white" href="@Url.Action("Index", "Home")">Home<span class="sr-only">(current)</span></a>
+        </li>
+        
+        <li class="nav-item active">
+          <a class="nav-link text-white" href="@Url.Action("Index", "Admin")">Admin <span class="sr-only"></span></a>
+        </li>
+      </ul>
     </div>
+  </nav>
+
+
+  <div class="container body-content">
+    @RenderBody()
+
+    @Styles.Render("~/Content/site.css")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+  </div>
+
 </body>
 </html>

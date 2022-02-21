@@ -23,7 +23,7 @@ namespace CarInsurance.Controllers
                                       DateTime DateOfBirth, int CarYear, string CarMake, string CarModel,
                                       int SpeedingTickets, bool CoverageType = false, bool DUI = false)
         {
-                using (InsuranceEntities db = new InsuranceEntities())
+              using (InsuranceEntities db = new InsuranceEntities())
                 {
 
                     var insuree = new Insuree();
@@ -41,12 +41,12 @@ namespace CarInsurance.Controllers
 
                     db.Insurees.Add(insuree);
                     db.SaveChanges();
-
                     return View(insuree);
                 }
-            }
 
-            private decimal TotalQuote(Insuree quote)
+        }
+
+        private decimal TotalQuote(Insuree quote)
             {
 
                 decimal quoteTotal = 50m;

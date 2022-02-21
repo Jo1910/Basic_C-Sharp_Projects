@@ -1,28 +1,48 @@
 ﻿
 
-@using CarInsurance.Models
-@using CarInsurance.ViewModels
-@model List<InsureeVm>
+
+@model IEnumerable<CarInsurance.Models.Insuree>
 
 
-  <div class="card w-75 mx-auto">
-    <header class="card-header text-center">
-      <h1>Admin page</h1>
-      <hr/>
-      <h3>Insurees quotes:</h3>
-    </header>
-    <div class="card-body">
-      @foreach (var person in Model)
-      {
-        <div class="row mb-2 mb-sm-5">
-          <div class="col-sm-5">@person.FirstName @person.LastName</div>
-          <div class="col-8 col-sm-5">@person.EmailAddress</div>
-          <div class="col-4 col-sm-2 text-right">$@person.Quote</div>
-          <br />
-        </div>
-      }
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Car Insurance Quote</title>
+  <link href="~/Content/Site.css" type="text/css" />
+</head>
 
+<body>
+<div class="container mt-3 mb-3">
+  <div class="quote-container">
+    <div class="card w-100 mx-auto">
+      <header class="card-header text-center">
+        <h1>Admin page</h1>
+        <hr />
+        <h3>Insurees quotes:</h3>
+      </header>
+      <div class="card-body">
+        @foreach (var person in Model)
+        {
+          <div class="row mb-2 mb-sm-5 text-justify">
+            <div class="col-lg-3 col-sm-12 col-md-12 pb-md-2 col-name">@person.FirstName @person.LastName</div>
+            <div class="col-lg-4 col-sm-12 col-md-12 pb-md-2 text-primary">@person.EmailAddress</div>
+            <div class="col-lg-2 col-sm-12 col-md-12 pb-md-3">$@Math.Round(person.Quote, 2)</div>
+            <div class="col-lg-3 col-sm-12 col-md-12 text-lg-center">
+              <button class="btn btn-details btn-primary">@Html.ActionLink("Details", "Details", new { id = person.Id }, new { style = "color:white;" })</button>
+              <button class="btn btn-danger text-white ml-1">@Html.ActionLink("Delete", "Delete", new { id = person.Id }, new { style = "color:white;" })</button>
+            </div>
+            @*<br />*@
+          </div>
+          <hr/>
+        }
+
+      </div>
     </div>
   </div>
+</div>
+</body>
+</html>
 
 

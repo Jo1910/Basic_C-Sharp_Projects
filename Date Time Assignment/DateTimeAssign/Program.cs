@@ -15,7 +15,7 @@ namespace DateTimeAssign
             Console.WriteLine("Please enter a number:");
             int X = Convert.ToInt32(Console.ReadLine());
             DateTime timeFuture = timeNow.AddHours(X);
-            Console.WriteLine("In " + X+ " hours will be " + timeFuture + ".");
+            Console.WriteLine("In " + X+ " hours it will be " + timeFuture + ".");
             Console.ReadLine();
 
         }

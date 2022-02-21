@@ -8,11 +8,11 @@ namespace OverloadOper
 {
     public class Employee // creating a class called "Employee"
     { 
-    public int Id { get; set; } // giving it a property "Id" of integer type
+      public int Id { get; set; } // giving it a property "Id" of integer type
 
 
     //// comparing two objects using comparison operator overloading
-    //// commented out because it's less code
+    
     
     //public static bool operator == (Employee employee1, Employee employee2)
     //{

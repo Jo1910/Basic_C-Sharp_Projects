@@ -5,3 +5,10 @@ C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Enums Assignment\EnumAssi
 C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Enums Assignment\EnumAssign\EnumAssign\obj\Debug\EnumAssign.csproj.CoreCompileInputs.cache
 C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Enums Assignment\EnumAssign\EnumAssign\obj\Debug\EnumAssign.exe
 C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Enums Assignment\EnumAssign\EnumAssign\obj\Debug\EnumAssign.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Enum Assignment\EnumAssign\bin\Debug\EnumAssign.exe.config
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Enum Assignment\EnumAssign\bin\Debug\EnumAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Enum Assignment\EnumAssign\bin\Debug\EnumAssign.pdb
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Enum Assignment\EnumAssign\obj\Debug\EnumAssign.csprojAssemblyReference.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Enum Assignment\EnumAssign\obj\Debug\EnumAssign.csproj.CoreCompileInputs.cache
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Enum Assignment\EnumAssign\obj\Debug\EnumAssign.exe
+C:\Users\mitic\Documents\GitHub\Basic_C-Sharp_Projects\Enum Assignment\EnumAssign\obj\Debug\EnumAssign.pdb
