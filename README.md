@@ -7,5 +7,9 @@
 I refactored this app is refactored after the bootcamp. Added responsiveness for smaller screens. Check out the demo below.
 
 
-https://user-images.githubusercontent.com/35170540/155212445-dd0bec9e-f6ff-4270-aed5-10e2e0d1d12a.mp4
+
+
+
+
+https://user-images.githubusercontent.com/35170540/155215978-c86bbf10-4672-4dee-a3e8-c75dc7f600e1.mp4
 
